@@ -1,6 +1,7 @@
 names = [
   "Tamás Vince",
-  "Berényi Bence"
+  "Berényi Bence",
+  "Susa Milán Mihály",
 ]
 
 if __name__ == "__main__":
